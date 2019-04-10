@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086876006302",
+    "firebase_url": "https://notifikasi-v2.firebaseio.com",
+    "project_id": "notifikasi-v2",
+    "storage_bucket": "notifikasi-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086876006302:android:bf9afa020fe62302",
+        "android_client_info": {
+          "package_name": "com.example.yahya.yahyanotifikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086876006302-9nl7hvet7mog2vs26i622l4lqipm30k2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yahya.yahyanotifikasi",
+            "certificate_hash": "d6abc22351fba739455b240fe0eda59d1ad5d2bc"
+          }
+        },
+        {
+          "client_id": "1086876006302-oosj2066u0lmjte4m1tsterv9sehls8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlzvigJZZjF88D3k3DvAGEMtOKoqBUJYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086876006302-oosj2066u0lmjte4m1tsterv9sehls8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
